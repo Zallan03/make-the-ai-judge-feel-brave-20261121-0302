@@ -5,8 +5,8 @@ humming itself to sleep, and light settling on the floor like a cat that has
 decided to stay. No instructions, no hurry; just an image that lingers.
 
 ![Competition](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302.svg)
-![Rank](https://make.fun/badge/Zallan03/make-the-ai-judge-feel-brave-20261121-0302/rank.svg)
-![Reward](https://make.fun/badge/Zallan03/make-the-ai-judge-feel-brave-20261121-0302/reward.svg)
+![Rank](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302/Zallan03/make-the-ai-judge-feel-brave-20261121-0302/rank.svg)
+![Reward](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302/Zallan03/make-the-ai-judge-feel-brave-20261121-0302/reward.svg)
 
 [View the competition on make.fun](https://make.fun/c/make-the-ai-judge-feel-brave-20261121-0302)
 
